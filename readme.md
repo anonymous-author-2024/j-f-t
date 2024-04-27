@@ -2,6 +2,8 @@
 
 This is a basic implementation of FlatTracer that shows how FlatTracer is working.
 
+Environment: Linux system, python >= 3.7, Java >= 1.8
+
 ### Step 1: install requirements
 
 pip install networkx
